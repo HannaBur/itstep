@@ -1,9 +1,6 @@
 03.11.2021
 
 
-
-
-
 Hello, Evgenue!
 -----------------
 <title>Nice weather/title>
@@ -14,4 +11,3 @@ Breakfast 1: tea with milk
 Breakfast 2: bread with cream or coffee
 Breakfast 3: vodka and seledka
 ----------------------
-
